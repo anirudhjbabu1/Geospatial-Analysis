@@ -24,7 +24,7 @@ This project provides a comprehensive geospatial analysis of Indian cities using
 To get started with the geospatial analysis, simply open the Colab notebook using the link provided below and follow the instructions within the notebook.
 
 ### Colab Notebook Link
-[Geospatial Analysis of Indian Cities](https://colab.research.google.com/github/yourusername/geospatial-analysis-indian-cities/notebook.ipynb)
+[Geospatial Analysis of Indian Cities](https://colab.research.google.com/drive/10dmx_Kj2HyClKf7Ka7P0bNMXnvAQfJWA#scrollTo=Mb0Gs85ZTc3c)
 
 ## Usage
 1. **Open the Colab notebook:**
